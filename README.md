@@ -1,7 +1,20 @@
-# Web-programming-projects
-Project 1: Personal Professional Website
-http://eve.kean.edu/~helmacya/Project1/index.html
-Project 2: Request for Proposal E-Commerce Front End
-http://eve.kean.edu/~helmacya/Project2/index.html
-Final Project: Course Scheduler Program
-http://eve.kean.edu/~helmacya/Final-Project/index.html
+- http://eve.kean.edu/~myname/MyProject1.html
+
+- Description:  My personal website
+- <b>Description:</b>  My personal website
+
+
+## Project #2
+
+- http://eve.kean.edu/~myname/MyProject2.html
+
+- Description:  A front-end prototype of an E-commerce website
+- <b>Description:</b>  A front-end prototype of an E-commerce website
+
+
+## Project #3
+
+- http://eve.kean.edu/~myname/MyProject3.html
+
+- Description:  A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+- <b>Description:</b>  A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
