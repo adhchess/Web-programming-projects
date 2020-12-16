@@ -1,20 +1,16 @@
-- http://eve.kean.edu/~myname/MyProject1.html
+#Alex Helmacy
 
-- Description:  My personal website
-- <b>Description:</b>  My personal website
+##Project #1
 
+- http://eve.kean.edu/~helmacya/Project1/index.html
+- <b>Description:</b> My Personal Professional Website
 
-## Project #2
+##Project #2
 
-- http://eve.kean.edu/~myname/MyProject2.html
+- http://eve.kean.edu/~helmacya/Project2/index.html
+- <b>Description:</b> E-Commerce Front-End prototype
 
-- Description:  A front-end prototype of an E-commerce website
-- <b>Description:</b>  A front-end prototype of an E-commerce website
+##Project #3
 
-
-## Project #3
-
-- http://eve.kean.edu/~myname/MyProject3.html
-
-- Description:  A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
-- <b>Description:</b>  A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+-http://eve.kean.edu/~helmacya/Final-Project/index.html
+- <b>Description:</b> A complete "Web Dev Story" that adopts Design Thinking principles to address Kean University's course scheduler site
